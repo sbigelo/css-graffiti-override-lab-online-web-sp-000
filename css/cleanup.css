@@ -1,7 +1,7 @@
-#wall .tag-1 {
+#wall .tag-1, tag-2, tag-3 {
   display: none;
 }
-
+/*
 #wall .tag-2 {
   display: none;
 }
@@ -11,4 +11,4 @@
 }
 #wall .tag-5 {
   display: none;
-}
+}*/
